@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Project2
+permalink: projects/Project2
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-08-30
 labels:
   - Javascript
   - Meteor
